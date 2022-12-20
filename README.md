@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fffilps
 - 👀 I’m interested in Web Development, iOS Development, and Security Research
-- 🌱 I’m currently learning React/Redux and Python
+- 🌱 I’m currently mastering React/Redux, Python, and AI/ML
 - 💞️ I’m looking to collaborate on Web Applications, Hackathons, and Personal Projects
 - 📫 You can reach me at jmariwyatt@gmail.com and instagram.com/jmari.wyatt
 
